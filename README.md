@@ -46,6 +46,8 @@ AI frontier聚焦于收集AI及IT相关技术的最新动向。
 <br>
 [Open Storage Summit -- Day 3全文实录](https://mp.weixin.qq.com/s/6SmgrqAxTQG5AmUvJzZ2QQ)
 <br>
+[Open Storage Summit -- Day 4全文实录](https://mp.weixin.qq.com/s/wEk8LBxKJ1FaKFZSdHVZtA)
+<br>
 
 **论文前沿**
 <br>
