@@ -34,11 +34,23 @@ AI frontier聚焦于收集AI及IT相关技术的最新动向。
 更早的文章请到目录中进行查看。
 
 
+<br>
 
+---
 
+**峰会动态**
+<br>
 
+**论文前沿**
+<br>
 
+**行业动态**
+[长上下文Deep Dive —— DeepMind首席专家访谈实录](https://mp.weixin.qq.com/s/NOMDbJjgNVCy5S9Esptugw)
 
+<br>
+
+**杂谈**
+<br>
 
 
 
