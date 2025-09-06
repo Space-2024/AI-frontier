@@ -1,6 +1,6 @@
 ![](file:///C:/Users/Cao%20Yu/AppData/Roaming/marktext/images/2025-09-06-17-10-09-头像.png?msec=1757149813449)
 
-# <center>AI Frontier</center>
+<center>#AI Frontier</center>
 
 ---
 
