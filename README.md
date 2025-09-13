@@ -55,7 +55,8 @@ AI frontier聚焦于收集AI及IT相关技术的最新动向。
 **行业动态**
 <br>
 [长上下文Deep Dive —— DeepMind首席专家访谈实录](https://mp.weixin.qq.com/s/NOMDbJjgNVCy5S9Esptugw)
-
+<br>
+[OracleAI数据库一度换掉世界首富，资本看中了什么](https://mp.weixin.qq.com/s/nflUDRKawNDCJ5j0w_0aFQ)
 <br>
 
 **杂谈**
