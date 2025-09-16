@@ -58,6 +58,9 @@ AI frontier聚焦于收集AI及IT相关技术的最新动向。
 <br>
 [OracleAI数据库一度换掉世界首富，资本看中了什么](https://mp.weixin.qq.com/s/nflUDRKawNDCJ5j0w_0aFQ)
 <br>
+[过长上下文导致腐化，AGI是种宗教 - Latent Space专访Jeff全文实录](https://mp.weixin.qq.com/s/ozuLdXHT1TeiSvcKCfUG2w)
+<br>
+
 
 **杂谈**
 <br>
