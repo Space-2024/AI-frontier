@@ -60,6 +60,10 @@ AI frontier聚焦于收集AI及IT相关技术的最新动向。
 <br>
 [过长上下文导致腐化，AGI是种宗教 - Latent Space专访Jeff全文实录](https://mp.weixin.qq.com/s/ozuLdXHT1TeiSvcKCfUG2w)
 <br>
+[谈Agent与上下文工程 - LangChain的Lance Martin访谈实录](https://mp.weixin.qq.com/s/eLaE63XXPSKOVCDatOwg8g)
+<br>
+[AI基础设施创新——英伟达AI Infra Summit大会Keynote全文]([https://mp.weixin.qq.com/s/jic2JvERQIs3EAR3Ra7STA])
+<br>
 
 
 **杂谈**
